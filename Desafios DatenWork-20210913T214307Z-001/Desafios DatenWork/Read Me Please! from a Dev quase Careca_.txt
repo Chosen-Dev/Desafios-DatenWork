@@ -1,0 +1,16 @@
+Desafios DatenWorks Devops:
+
+Desafio 1:
+ 
+Olá me segue minhas dificuldades em relação ao desafio 1:
+Tentei fazer a rest API em Python que é a linguagem que mais me sinto confortável em codar, segui um tutorial já que ainda não tenho conhecimentos avançados no Docker consegui fazer o contêiner porém na hora de conectar a aplicação não rolou, tentei de várias formas estabelecer o Host a porta porém a aplicação não se comunicou e não sei bem onde estou errando. Mesmo assim gostei bastante do desafio só não consegui fazer ele codar.
+
+Desafio 2: 
+Sobre o desafio dois tentei não utilizar os mesmo codigos da api segui outro tutorial que rodou bem conectou a porta e host testei em uma ferramenta chamada Postman e funcionou tanto no postamn quanto colocando o endereço direto o problema foi quando tentei "Conteinerizar" mais uma vez não funcionou e como Kubbernets ainda é algo que não disponho de conhecimentos não avancei ja que não estou conseguindo nem conteinerizar. Tentei pegar trechos do codigo do Exercicio 1 e reciclar mais sem sucesso.
+
+Desafio 3:
+Peço desculpas porem o desafio 3 está muito aquém das minha habilidades no momento, quando eu estiver trabalhando ai tenho certeza que o farei em menos de dois meses.
+
+Desafio de Dados:
+
+Embora eu esteja estudando sobre dados, não consgui entender o que deve ser feito isso se deve a meu pouco conhecimento na área, porem sigo os estudos e gostaria muito de fazer parte da equipe da DatenWorks só preciso de uma oportunidade para aprender mais e vestir a camisa e contribuir com a Datenworks e agregar valor para ambos.
